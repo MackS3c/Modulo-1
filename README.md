@@ -12,6 +12,7 @@
 
 - [**Cybersecurity Roadmap**](https://roadmap.sh/cyber-security)
   Roadmap de segurança detalhando diversas áreas e conceitos de cibersegurança.
+
 ---
 
 ## Atividades Práticas
