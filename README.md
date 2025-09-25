@@ -10,6 +10,8 @@
 - [**Staying Informed on Cybersecurity** - Sigmund Brandstaetter](https://osintph.medium.com/staying-informed-on-cybersecurity-a-simple-guide-that-everybody-can-use-434aa9f9128a)  
   Dicas práticas de como se manter atualizado na área de segurança da informação.
 
+- [**Cybersecurity Roadmap**](https://roadmap.sh/cyber-security)
+  Roadmap de segurança detalhando diversas áreas e conceitos de cibersegurança.
 ---
 
 ## Atividades Práticas
