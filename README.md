@@ -23,6 +23,12 @@
 - [**TryHackMe - Introduction to Researching**](https://tryhackme.com/room/introtoresearch)  
   Aprenda técnicas de pesquisa aplicadas à cibersegurança.
 
+- [**TryHackMe - Python Basics**](https://tryhackme.com/room/pythonbasics)
+  Introdução a python.
+
+- [**TryHackMe - Vulnerabilities 101**](https://tryhackme.com/room/vulnerabilities101)
+- Entenda mais sobre vulnerabilidades.
+
 - [**PicoCTF**](https://picoctf.org/)  
   Plataforma com desafios práticos de CTF (Capture The Flag).
 
